@@ -81,4 +81,3 @@ int* inorderTraversal(struct TreeNode* root, int* returnSize) {
     
     return array;
 }
->>>>>>> 39dc5627ea9445ec92d2b253cb7eedcf0f8d6c20
